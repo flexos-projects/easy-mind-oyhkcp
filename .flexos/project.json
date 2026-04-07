@@ -1,22 +1,19 @@
 {
-  "id": null,
-  "name": "{{project_name}}",
-  "slug": "{{project_slug}}",
+  "id": "bb348087-8bbe-4564-a9cd-6730550ff0a1",
+  "name": "Easy Mind",
+  "slug": "easy-mind",
   "description": "",
   "tagline": "",
   "tags": [],
-
   "owner": {
-    "id": null,
-    "email": null
+    "id": "xva8uVwRBdMmoiP4ASCoyESU26h2",
+    "email": "xbarbora02@gmail.com"
   },
-
   "status": "active",
   "visibility": "private",
-
   "brand": {
-    "themeColor": "{{theme_color}}",
-    "theme": "default",
+    "themeColor": "#E879A0",
+    "theme": "emerald",
     "logo": null,
     "favicon": null,
     "openGraph": {
@@ -25,26 +22,22 @@
       "image": null
     }
   },
-
   "deploy": {
-    "rootMode": "portal",
+    "rootMode": "prototype",
     "prototypeEnabled": true,
-    "vercelDomain": null,
+    "vercelDomain": "easy-mind-oyhkcp.flexos.site",
     "customDomain": null
   },
-
   "github": {
-    "repoOwner": null,
-    "repoName": null,
+    "repoOwner": "flexos-projects",
+    "repoName": "easy-mind-oyhkcp",
     "branch": "main",
-    "url": null
+    "url": "https://github.com/flexos-projects/easy-mind-oyhkcp"
   },
-
   "vercel": {
     "projectId": null,
     "productionUrl": null
   },
-
   "techStack": {
     "framework": "nuxt4",
     "hosting": "vercel",
@@ -52,13 +45,11 @@
     "auth": "better-auth",
     "css": "open-props"
   },
-
   "settings": {
     "defaultFocusMode": true,
     "autoSave": true,
     "aiModel": "gemini-flash"
   },
-
-  "createdAt": "{{created_at}}",
-  "updatedAt": "{{created_at}}"
+  "createdAt": "2026-04-07T20:59:12.842Z",
+  "updatedAt": "2026-04-07T20:59:12.842Z"
 }
